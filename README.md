@@ -1,111 +1,95 @@
-<h1 align="center">Hi 👋, I'm Anish Kumar</h1>
-<h3 align="center">Aspiring Software Engineer | Java Developer | Cloud Enthusiast</h3>
+# Hi, I'm Anish Kumar 👋
 
-<p align="center">
-  <a href="https://github.com/Anish-Kumar33045">
-    <img src="https://komarev.com/ghpvc/?username=Anish-Kumar33045&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
-</p>
+### Software Developer | Java Backend Developer | Full-Stack Enthusiast
+
+Software Developer focused on building **backend** and **full-stack applications** using **Java** and modern web technologies.
+
+Currently improving my skills in **Backend Development**, **System Design**, and **Data Structures & Algorithms** through hands-on projects and continuous learning.
 
 ---
 
 ## 🚀 About Me
 
-🎓 Engineering Student passionate about Software Development and Cloud Technologies
-
-💻 Currently focused on:
-- Data Structures & Algorithms
-- Java Development
-- Web Development
-- Cloud Computing
-- Linux & Networking
-
-🌱 Continuously learning and building projects to strengthen problem-solving and development skills.
-
-🎯 Goal: Secure Software Engineering / Cloud Engineering internships and full-time opportunities.
+- 🎓 Engineering Student passionate about software development
+- ☕ Strong interest in Java and backend technologies
+- 🌱 Currently learning Spring Boot, System Design, and Cloud Technologies
+- 💡 Enjoy building practical projects that solve real-world problems
+- 📚 Consistently improving problem-solving and development skills
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
-### Languages
+### Backend Development
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Web Development
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### Frontend Development
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Backend & Database
-![Java](https://img.shields.io/badge/Java_Backend-007396?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### Tools & Technologies
 
-### Cloud & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/Cloud_Computing-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Projects
 
-### 🔹 Digital Proof of Work System
-A system designed to track and verify worker activities digitally.
+### 📋 To-Do List Application
 
-**Features**
-- Attendance Tracking
-- Daily Work Hours Calculation
-- Dashboard Analytics
-- Worker Rating System
+Task management application built using Java featuring:
 
-### 🔹 To-Do List Application
-Task management application built using Java concepts.
+- Create, Read, Update, and Delete (CRUD) operations
+- Object-Oriented Design principles
+- Clean and maintainable code structure
 
-### 🔹 Bank Account Management System
-Java OOP project demonstrating:
+### 🏦 Bank Account Management System
+
+Java-based banking application demonstrating:
+
 - Encapsulation
-- Classes & Objects
-- Account Operations
+- Inheritance
+- Polymorphism
+- Account management operations
 
 ---
 
-## 🏆 Achievements
+## 🎯 Areas of Interest
 
-🏅 Earned 15+ Digital Badges on Credly
-
-☁️ Completed Cloud Computing and Generative AI Certifications
-
-📚 Actively solving DSA problems and building development projects
-
-🎤 Participated in National-Level Technical Conferences and Technical Events
+- Backend Development
+- Full-Stack Web Development
+- Software Engineering
+- API Design & Development
+- System Design
+- Cloud-Native Technologies
 
 ---
 
-## 📊 GitHub Statistics
+## 📈 Current Focus
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Anish-Kumar33045&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Anish-Kumar33045&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anish-Kumar33045&layout=compact&theme=tokyonight" />
-</p>
+- Java Development
+- Spring Boot
+- Data Structures & Algorithms
+- REST API Development
+- Database Design
+- System Design Fundamentals
 
 ---
 
 ## 📫 Connect With Me
 
-- LinkedIn: [Add Your LinkedIn Link]
-- Email: [Add Your Professional Email]
-- GitHub: https://github.com/Anish-Kumar33045
+- LinkedIn: [k-anish-kumar](https://linkedin.com/in/k-anish-kumar)
+- Email: anish33045@gmail.com
 
 ---
-
-### ⚡ Fun Fact
-
-I enjoy solving coding problems, learning new technologies, playing chess ♟️, and turning ideas into real projects 🚀.
